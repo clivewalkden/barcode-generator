@@ -2,7 +2,10 @@
     "name": "clivewalkden/barcode-generator",
     "description": "This plugin allows you to create barcodes thanks to php.",
     "homepage": "http://barcode-coder.com/en/",
-    "keywords": "barcode, EAN",
+    "keywords": [
+        "barcode",
+        "EAN"
+    ],
     "version": "0.1.0",
     "license": [
         "GPL-3.0",
