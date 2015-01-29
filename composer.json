@@ -1,0 +1,31 @@
+{
+    "name": "CliveWalkden/barcode-generator",
+    "description": "This plugin allows you to create barcodes thanks to php.",
+    "homepage": "http://barcode-coder.com/en/",
+    "keywords": "barcode, EAN",
+    "version": "0.1.0",
+    "license": [
+        "GPL-3.0",
+        "CECILL-2.0"
+    ],
+    "authors": [
+        {
+            "name": "Jean-Baptiste DEMONTE",
+            "email": "jbdemonte@gmail.com"
+        },
+        {
+            "name": "Jonathan HOUREZ"
+        },
+        {
+            "name": "Clive Walkden",
+            "email": "clive@clivewalkden.co.uk",
+            "homepage": "http://clivewalkden.co.uk"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "CliveWalkden": "src/"
+        }
+    }
+}
