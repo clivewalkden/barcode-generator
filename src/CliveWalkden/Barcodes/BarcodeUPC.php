@@ -1,4 +1,6 @@
 <?php
+namespace CliveWalkden\Barcodes;
+
 class BarcodeUPC {
 
     static public function getDigit($code){

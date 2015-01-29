@@ -1,4 +1,6 @@
 <?php
+namespace CliveWalkden\Barcodes;
+
 class BarcodeDatamatrix {
     static private $lengthRows = array(
         10, 12, 14, 16, 18, 20, 22, 24, 26,  // 24 squares et 6 rectangular

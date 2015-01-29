@@ -1,4 +1,6 @@
 <?php
+namespace CliveWalkden\Barcodes;
+
 class Barcode39 {
     static private $encoding = array(
         '101001101101', '110100101011', '101100101011', '110110010101',

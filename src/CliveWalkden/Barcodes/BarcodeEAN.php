@@ -1,4 +1,6 @@
 <?php
+namespace CliveWalkden\Barcodes;
+
 
 class BarcodeEAN {
     static private $encoding = array(

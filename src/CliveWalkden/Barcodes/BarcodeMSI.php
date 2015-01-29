@@ -1,4 +1,6 @@
 <?php
+namespace CliveWalkden\Barcodes;
+
 class BarcodeMSI {
     static private $encoding = array(
         '100100100100', '100100100110', '100100110100', '100100110110',
