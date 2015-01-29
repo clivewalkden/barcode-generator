@@ -15,7 +15,7 @@
  *                  http://www.gnu.org/licenses/gpl.html
  */
 
-namespace CliveWalkden
+namespace CliveWalkden;
 
 class Barcode {
 
